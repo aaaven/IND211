@@ -134,10 +134,21 @@ Instead of pressing plastic buttons, your task is to create wearable or sensor-b
 
 ## Example: Pacman Live
 
+[pacman game](https://youtu.be/i_OjztdQ8iw) → [pacman live](https://youtu.be/VxEfFE-vsoc)
+
 ---
 
 In IND 211, we turn Simon Says into a playful, embodied wearable experience.
 
+----
+
+What is a [Simon Says](https://youtu.be/1Yqj76Q4jJ4) game? 
+
+It's also a popular [Arduino Excise](https://youtu.be/xLLTxN_UBnI)!
+
+Longer videos: [Simon Intro](https://www.youtube.com/watch?v=IIPnGv5Bd5M) + [Simon Arduino Explanation](https://youtu.be/fB4h0hNWz2o )
+
+Note: 
 ----
 
 ## Project Requirements 
