@@ -1,6 +1,6 @@
 ### Arduino Basic Workshop  
 
-#### by Dr. Aven Le ZHOU, 2025/26 S1
+#### by Dr. [Aven Le ZHOU](https://aven.cc), 2025/26 S1
 
 ---
 
