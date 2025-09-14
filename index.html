@@ -1,40 +1,285 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>From Physical Computing to Soma Design — Course Landing</title>
+  <meta name="description" content="A practice‑based course bridging physical computing and soma design through embodied interaction, sensors, and speculative making." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#0f1115;         /* page background */
+      --surface:#171a21;    /* card background */
+      --text:#e7e9ee;       /* primary text */
+      --muted:#a7adbb;      /* secondary text */
+      --brand:#88e2c1;      /* accent */
+      --brand-2:#7aa7ff;    /* secondary accent */
+      --line:#242a36;       /* dividers */
+      --shadow: 0 10px 30px rgba(0,0,0,.3);
+      --radius: 16px;
+    }
+    /* Optional alternate palettes
+    .theme-warm { --bg:#0f0d0b; --surface:#171311; --text:#efe9e3; --muted:#b7aca2; --brand:#f4c28a; --brand-2:#ff7a7a; --line:#231e1a; }
+    .theme-paper { --bg:#f7f7f5; --surface:#ffffff; --text:#1d1f24; --muted:#636a76; --brand:#1d7a6e; --brand-2:#3749a6; --line:#e9eaee; }
+    .theme-neon { --bg:#0a0b0f; --surface:#0e1018; --text:#eaf2ff; --muted:#9fb1cc; --brand:#00ffd1; --brand-2:#7aa7ff; --line:#171a23; }
+    */
+    html,body{height:100%;}
+    body{margin:0; font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; background:radial-gradient(1200px 800px at 80% -10%, rgba(122,167,255,.08), transparent), radial-gradient(900px 600px at -10% 10%, rgba(136,226,193,.08), transparent), var(--bg); color:var(--text);}
+    a{color:inherit; text-decoration:none}
+    .wrap{max-width:1120px; margin:0 auto; padding: clamp(16px, 3vw, 32px);}    
+    /* Header */
+    header{position:sticky; top:0; z-index:10; backdrop-filter: blur(10px); background: linear-gradient(to bottom, rgba(15,17,21,.8), rgba(15,17,21,.2)); border-bottom:1px solid var(--line);}    
+    .nav{display:flex; align-items:center; justify-content:space-between; gap:16px}
+    .brand{display:flex; align-items:center; gap:12px; font-weight:700; letter-spacing:.3px}
+    .brand .dot{width:10px; height:10px; border-radius:999px; background:linear-gradient(135deg, var(--brand), var(--brand-2)); box-shadow:0 0 0 4px rgba(122,167,255,.12)}
+    .nav a{color:var(--muted)}
+    .cta{display:inline-flex; align-items:center; gap:8px; padding:10px 14px; border-radius:999px; background:linear-gradient(135deg, var(--brand), var(--brand-2)); color:#0b0d12; font-weight:700; box-shadow: var(--shadow)}
+    /* Hero */
+    .hero{display:grid; grid-template-columns: 1.1fr .9fr; gap:40px; align-items:center; padding: 56px 0 18px}
+    .kicker{color:var(--brand); font-weight:700; letter-spacing:.18em; text-transform:uppercase; font-size:.75rem}
+    h1{font-family: Cardo, Georgia, serif; font-size: clamp(40px, 6vw, 68px); line-height:1.06; margin:.3em 0 .2em}
+    .lede{font-size: clamp(16px, 2.2vw, 20px); color:var(--muted); max-width:60ch}
+    .taglist{display:flex; flex-wrap:wrap; gap:10px; margin:22px 0 32px}
+    .tag{border:1px solid var(--line); color:var(--muted); padding:6px 10px; border-radius:999px; font-size:.85rem}
+    .hero-card{background:linear-gradient(180deg, rgba(23,26,33,.9), rgba(23,26,33,.7)); border:1px solid var(--line); border-radius:var(--radius); padding:22px; box-shadow: var(--shadow)}
+    .grid{display:grid; gap:16px; grid-template-columns: repeat(2, minmax(0, 1fr));}
+    .tile{padding:14px 16px; border:1px solid var(--line); border-radius:14px;}
+    .tile h4{margin:.2em 0; font-size:1rem}
+    .tile p{margin:.2em 0 0; color:var(--muted); font-size:.9rem}
+    /* Sections */
+    section{padding:64px 0; border-top:1px solid var(--line)}
+    h2{font-family: Cardo, Georgia, serif; font-size: clamp(28px, 3.5vw, 40px); margin:.2em 0 .6em}
+    .two-col{display:grid; grid-template-columns: 1fr 1fr; gap:32px}
+    .card{background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:22px; box-shadow: var(--shadow)}
+    ul.clean{list-style:none; padding:0; margin:0}
+    ul.clean li{padding:10px 0; border-bottom:1px dashed var(--line)}
+    ul.clean li:last-child{border-bottom:none}
+    .pill{display:inline-block; padding:6px 10px; border-radius:999px; background:rgba(136,226,193,.12); color:var(--brand); font-weight:600; font-size:.8rem}
+    /* Timeline */
+    .timeline{display:grid; gap:14px}
+    .week{display:grid; grid-template-columns: 96px 1fr; gap:16px; align-items:start}
+    .week .wno{font-weight:800; color:var(--brand-2)}
+    .week .wbody{background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:14px}
+    .muted{color:var(--muted)}
+    /* Footer */
+    footer{padding:48px 0; border-top:1px solid var(--line); color:var(--muted)}
+    /* Responsive */
+    @media (max-width: 900px){ .hero{grid-template-columns: 1fr; } .two-col{grid-template-columns:1fr;} .grid{grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap nav">
+      <div class="brand"><span class="dot"></span> From Physical Computing to Soma Design</div>
+      <nav class="nav" aria-label="Primary">
+        <a href="#about">About</a>
+        <a href="#outcomes">Outcomes</a>
+        <a href="#structure">Structure</a>
+        <a href="#projects">Projects</a>
+      </nav>
+    </div>
+  </header>
 
-		<title>reveal.js</title>
+  <main>
+    <!-- HERO -->
+    <div class="wrap hero">
+      <div>
+        <div class="kicker">Practice‑based • Embodied • Experimental</div>
+        <h1>From Physical Computing to Soma Design</h1>
+        <p class="lede">A research‑creation course that bridges sensors, circuits, and electronics with body, embodiment, and interaction, moving towards to soma design practices.</p>
+        <div class="taglist" aria-label="Keywords">
+          <span class="tag">Physical Computing</span>
+          <span class="tag">Soma Design</span>
+          <span class="tag">Embodied Interaction</span>
+          <span class="tag">Wearables</span>
+        </div>
+        <a id="apply" href="#contact" class="cta" aria-label="Jump to Contact">Get Info</a>
+      </div>
+      <aside class="hero-card" aria-label="At‑a‑glance">
+        <div class="grid">
+          <div class="tile">
+            <h4>Format</h4>
+            <p>Lecture + Workshop + Tutorial</p>
+          </div>
+          <div class="tile">
+            <h4>Duration</h4>
+            <p>10 weeks</p>
+          </div>
+          <div class="tile">
+            <h4>Tools</h4>
+            <p>Arduino, DFRobot Sensor Kit</p>
+          </div>
+          <div class="tile">
+            <h4>Focus</h4>
+            <p>Embodiment, Soma Design, Physcial Computing</p>
+          </div>
+        </div>
+      </aside>
+    </div>
 
-		<link rel="stylesheet" href="dist/reset.css">
-		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/black.css">
+    <!-- ABOUT / INTRO -->
+    <section id="about">
+      <div class="wrap two-col">
+        <div class="card">
+          <h2>About the Course</h2>
+          <p class="muted">
+            As design increasingly intersects with interactive technologies and places greater emphasis on interaction design and prototyping, this course equips students with both the technical skills of physical computing and the higher-level philosophical perspectives of soma design. 
+            </p>
+          <div style="border:1px dashed var(--line); border-radius:12px; padding:14px; margin-top:10px; background:rgba(122,167,255,.06)">
+            <strong>INTRO PLACEHOLDER</strong>
+            <p style="margin:.4em 0 0">
+            This course introduces physical computing and soma design as dual frameworks for creating playful wearables for gamification and interactivity. Using the Simon Says as an interaction framework, students reimagine its inputs through wearable and transform the play into a fully embodied experience.
+            </p>
+          </div>
+        </div>
+        <div class="card">
+          <h3 style="margin-top:0">Why it matters</h3>
+          <ul class="clean">
+            <li><strong>Beyond screens:</strong> Tangible, embodied interfaces expand interaction possibilities.</li>
+            <li><strong>From input to sensing:</strong> Re‑think signals as expressions of posture, gesture, and affect.</li>
+            <li><strong>Research‑creation:</strong> Making as a way of knowing in design and media arts.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
 
-		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>IND 211 Electronics for Design</section>
-				<section>From Physical Computing to Soma Design</section>
-			</div>
-		</div>
+    <!-- LEARNING OUTCOMES -->
+    <section id="outcomes">
+      <div class="wrap two-col">
+        <div>
+          <h2>Learning Outcomes</h2>
+          <ul class="clean">
+            <li>Build circuits and sensor pipelines with microcontrollers.</li>
+            <li>Prototype wearable or spatial interfaces for embodied interaction.</li>
+            <li>Translate somaesthetic principles into design decisions.</li>
+            <li>Document work with clarity: code, schematics, and reflection.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <span class="pill">Assessment Snapshot</span>
+          <ul class="clean" style="margin-top:10px">
+            <li>Group soma deisgn concept</li>
+            <li>Individual soma interface prototype</li>
+            <li>Simon days game reinvention</li>
+            <li>Weekly exercises & process</li>
+          </ul>
+        </div>
+      </div>
+    </section>
 
-		<script src="dist/reveal.js"></script>
-		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/markdown/markdown.js"></script>
-		<script src="plugin/highlight/highlight.js"></script>
-		<script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
+    <!-- STRUCTURE / WEEKS -->
+    <section id="structure">
+      <div class="wrap">
+        <h2>Weekly Structure</h2>
+        <div class="timeline">
+          <div class="week">
+            <div class="wno">Week 1</div>
+            <div class="wbody">
+              <strong>Intro & Arduino basics</strong>
+              <div class="muted">Lecture: course overview, somaesthetics. Workshop: Arduino try‑outs.</div>
+            </div>
+          </div>
+          <div class="week">
+            <div class="wno">Week 2</div>
+            <div class="wbody">
+              <strong>Sensors & Circuits</strong>
+              <div class="muted">Lecture: Soma Design basics. Workshop: DFRobot kit try‑outs; prep readings.</div>
+            </div>
+          </div>
+          <div class="week">
+            <div class="wno">Week 3</div>
+            <div class="wbody">
+              <strong>Flip‑classroom + Baseline Prototype</strong>
+              <div class="muted">Student presentations; build baseline “Simon Says.”</div>
+            </div>
+          </div>
+          <div class="week">
+            <div class="wno">Week 4</div>
+            <div class="wbody">
+              <strong>Formative Showcase</strong>
+              <div class="muted">Group formative presentation (no Monday class).</div>
+            </div>
+          </div>
+          <div class="week">
+            <div class="wno">Week 5</div>
+            <div class="wbody">
+              <strong>Design Prototyping</strong>
+              <div class="muted">Lecture: prototyping. Tutorial: sensor Q&A + technical consultancy.</div>
+            </div>
+          </div>
+          <div class="week">
+            <div class="wno">Week 6</div>
+            <div class="wbody">
+              <strong>Summative Showcase</strong>
+              <div class="muted">20% group concept + 30% individual soma interface.</div>
+            </div>
+          </div>
+          <div class="week">
+            <div class="wno">Week 7</div>
+            <div class="wbody">
+              <strong>Field Trip + Tutorial</strong>
+              <div class="muted">Field trip (TBC) & studio support.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
-		</script>
-	</body>
+    <!-- PROJECTS -->
+    <section id="projects">
+      <div class="wrap two-col">
+        <div class="card">
+          <h2>Projects & Exercises</h2>
+          <ul class="clean">
+            <li><strong>Embodied Simon Says</strong> — towards soma‑centric sensing.</li>
+            <li><strong>Wearable Sensing</strong> — bodily experience as interaction material.</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3 style="margin-top:0">Kits & Software</h3>
+          <ul class="clean">
+            <li>Arduino (C/C++) + serial tooling</li>
+            <li>DFRobot sensor kit & breadboard basics</li>
+            <li>Optional: TouchDesigner / Processing / p5.js</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- INSTRUCTOR / CONTACT -->
+    <section id="contact">
+      <div class="wrap two-col">
+        <div class="card">
+          <h2>Instructor</h2>
+          <p><strong>Aven Le Zhou</strong> — Assistant Professor, artist‑scholar in interactive art and design. Research focuses on  embodiment, interaction and relationality.</p>
+          <p class="muted">Teaching modules include speculative design with AI, physical computing, and embodied interaction.</p>
+        </div>
+        <div class="card">
+          <h3 style="margin-top:0">Get in Touch</h3>
+          <form onsubmit="event.preventDefault(); alert('Thanks! This demo form can be wired to a real endpoint.');" aria-label="Contact form">
+            <label>Name<br><input required type="text" placeholder="Full name" style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)"></label>
+            <br><br>
+            <label>Email<br><input required type="email" placeholder="email@example.com" style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)"></label>
+            <br><br>
+            <label>Message<br><textarea rows="5" placeholder="Interest, background, questions…" style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)"></textarea></label>
+            <br><br>
+            <button class="cta" type="submit">Send</button>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div>© <span id="y"></span> Aven Le Zhou + chatGPT </div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
+</body>
 </html>
