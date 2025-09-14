@@ -209,13 +209,18 @@ A technique to **externalize inner bodily experience** by marking sensations on 
    - Breath movement, weight, flow  
 5) Add **arrows, textures, words** to describe (qualities)
 
----
+----
 
 #### Body Mapping: Process (3/3)
 6) **Legend** (example):  
-   - ● pressure, ~ warmth, ⇄ flow, ░ tingling, ↑ breath travel  
+   - x pressure, ~ warmth, ⇄ flow, ░ tingling, ↑ breath travel  
 7) **Annotate** short labels (2–5 words) for each mark  
 8) **Pair/Group reflection**: What patterns emerge?
+
+----
+
+- [example 01](images/01.jpg)
+- [example 02](images/02.jpg)
 
 ---
 
