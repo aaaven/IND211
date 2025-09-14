@@ -236,6 +236,7 @@ A technique to **externalize inner bodily experience** by marking sensations on 
 
 ### Mini Exercise (In-Class)
 **5-10 min:** Map sensations for **“Unlocking phone while walking.”**  
+- Draw a body shape with two sides if needed
 - Mark **pressure**, **breath**, **head/neck posture** (3-5 minutes)
 - Pair up and **compare** maps (3-5 minutes)
 
