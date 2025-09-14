@@ -1,349 +1,261 @@
-## IND 211 Electronics for Industrail Design 
-
-#### *From Physical Computing to Soma Design*
+### Introduction to Soma Design
 
 ##### By *Dr. [Aven Le ZHOU](https://www.aven.cc)*, 2025
 
 ---
 
-### 25/26-S1 Teaching Team:
-
-- **Module Leader:** *Aven Le ZHOU*
-- **Co-Lecturer:** *Mengjie HUANG*
-- **Teaching Assistants:** *Xianyue ZHU, Yiran MA*
+## Why Soma Design?
 
 ----
 
-#### Aven-Le ZHOU
+### Interfaces vs. the Body
 
-- **Ph.D. Computational Media and Arts**
-    - *Hong Kong Uni. of Science and Technology*
-- **B.Arch. Architecture**
-    - *Huazhong Uni. of Science and Technology*
+- Too many interfaces reduce bodily action to **clicks/taps/swipes**<!-- .element: class="highlight-current-yellow" -->  
+- The human body can **sense, breathe, tense, relax, move**  
+- **How can design engage this richness ?**<!-- .element: class="fragment grow highlight-current-red" -->
 
 ----
 
-#### Arts and Technology ~ Interactive Art
-
-- Assitant Professor, XJTLU. 2020 - Now
-- Instructor, NYU Shanghai. 2019 - 2020.
-- Research Fellow, NYU Shanghai. 2014 - 2019. 
+### Bring **bodily experience** back into design  
+- From object-oriented efficiency → **aesthetics of experience**<!-- .element: class="fragment grow highlight-current-red" -->   
+- Treat the body not as an I/O device, but as a **lived site of experience**<!-- .element: class="fragment grow highlight-current-red" --> 
 
 ---
 
-### What do we do in this module?
+### A tiny bit Phenomenology
 
 ----
 
-#### From Physical Computing to Soma Design
-
-#### 2025-2026
-
-----
-
-*Design **Playful Wearables**<!-- .element: class="fragment grow highlight-current-red" --> where Technology Meets the Body.*
-
-Note:
-Introduce the module’s essence in one breath.
+#### Corporeality: The Object-Body
+- **Material body**: flesh, bone, muscle  
+- Narrowed as **mechanical apparatus** in HCI  
+- Example: fingers pressing keys; posture as mere constraint
 
 ----
 
-We shift the focus from **Button-press**<!-- .element: class="fragment grow highlight-current-red" --> to **Gestures, Postures, Sensations**<!-- .element: class="fragment grow highlight-current-red" -->. 
+#### Embodiment: The Lived-Body
+- The body **as experienced from within**  
+- Sensation, perception, affect, movement, breath  
+- Attending to **felt experience** (tension/ease, warmth/coolness)
 
 ----
 
-- Everyday tech reduces us to clicks and swipes.  
-![Technology in Everyday Life - Daily Premiere](images/button_press.png)
-
-----
-
-- Our bodies can do much more.  
-![‘We think of the body as a map’: a new approach to deciphering long Covid](images/body_map.avif)
-
-----
-
-- What about design for/with the whole body? <!-- .element: class="fragment grow highlight-current-red" -->
+### Corporeality vs. Embodiment<!-- .element: class="highlight-current-red" --> 
+| Aspect | Corporeality (Object-Body) | Embodiment (Lived-Body) |
+|---|---|---|
+| Focus | Mechanics, measures | Felt experience, awareness |
+| Body Role | Data source / actuator | Primary **site** of experience |
+| Design Goal | Extract/track/use body or data | Shape bodily **experience** |
 
 ---
 
-## Soma Design
+### Corporeality, Embodiment, and the Self
+- Corporeality + embodiment **both matter**  
+- Together they underpin higher notions (e.g., **self, awareness**)  
+- In soma design: **foreground embodiment** while acknowledging corporeal grounding
 
-Soma design is an approach that foregrounds bodily perception, movement, and sensation throughout the design process, inviting designers to engage somatically with materials and technologies to surface new experiential qualities. 
+---
 
-Note: Emphasize soma design as a shift from symbolic to sensory, experiential design. [1](https://www.uib.no/infomedia/161327/soma-design-designing-whole-body?utm_source=chatgpt.com) [2](https://www.researchgate.net/publication/332085836_Designing_with_the_Body_Somaesthetic_Interaction_Design?utm_source=chatgpt.com)
-
+### Apple Watch Example: Corporeality vs. Embodiment
 
 ----
 
-#### Why It Matters in Industrial Design?
+**Corporeality (object-body)**  
+- Step count / WeChat Movement ranking  
+- Body treated as **mechanical object**  
+- Emphasis on **withdrawing/tracking/using data**
 
-Designing experiences—not just objects—is at the heart of modern industrial design.  
+----
 
-Note: Tie to HCD research on embodied interaction in product design.
+**Embodiment (lived-body)**  
+- Mindfulness app: **Reflect & Breathe**  
+- Body treated as **lived experience**  
+- Emphasis on cultivating **awareness** (breath, posture, relaxation)
+
+---
+
+## Why this matters:
+A seemingly “small” move - look at the body - object → experience **reorients** how we think about and **design with** the body.
+
+---
+
+### Soma = Embodied Experience
+- Soma design **foregrounds embodiment**  
+- Works with posture, breath, tension, relaxation, movement  
+- **Shift:** from body-as-object → **body-as-experience**
+
+---
+
+### Key Features of Soma Design
+- **Bodily awareness** & somatic reflection as design material   
+- Iterative cycle: **sense → design → re-sense**
 
 
 ---
 
-### The Framework
-#### From Physical Computing to Soma Design
- 
-- Physical computing gives us the tools  
-    - Microcontrollers, sensors, circuits  
-- Soma design gives us the awareness
-    - Bodily sensation, awareness, reflection
+#### Discussion: Any **Design Examples**<!-- .element: class="fragment grow highlight-current-red" --> ? 
 
-Note:
-Explain how soma design (Höök) complements physical prototyping.
+----
+
+#### In-Class Activity (20 mins): 
+
+**Step 1 – Think (2 min)**  
+- Individually, pick a design / technology / product / app etc  you use  
+- Does it treat your body as **corporeality** or **embodiment**?  
+
+----
+
+**Step 2 – Share (5 min)**  
+- In groups of 4, share examples  
+- Debate classification; choose **one best example**
+
+----
+
+**Step 3 – Record (3 min)**  
+- Post to the correct shared board:  
+  - [Corporeality](https://box.xjtlu.edu.cn/f/896d952215ac4b888741/)  
+  - [Embodiment](https://box.xjtlu.edu.cn/f/e64393d2e84e402696fb/)
+
+----
+
+**Step 4 – Reflection (10 min)**  
+- View the examples together
+- Discuss overlaps and differences
 
 ---
 
-### The Approach 
-#### Exploring Playful Gaming Wearables
-
-
-- We redesign *Simon Says* as a **situated design experiment**—a shared scaffold for learning.  
-- You experiment with new bodily experiences—freely designing wearable controllers that use gesture, posture, and sensation.
-
-Note: Spotlight the pedagogical balance of structure and creativity.
+### Where *Soma Design*<!-- .element: class="fragment grow highlight-current-red" --> Sits in HCI
+- Response to limits of usability/metric-driven frames  
+- Complements embodied interaction by emphasizing **felt experiences** or **Somaesthetics**  
+- Applied in health, wellbeing, learning, art, XR, furniture/wearables
 
 ----
 
-### Simon Says
-
-We use the classical yet playful device *Simon Says* as a conceptual platform for investigating the relationship between body, technology, and interaction. It provides a simple but powerful structure.
-
-Note:
-We are not designing a new game, but exploring soma design through physical computing.
+### Design Materials (Examples)
+- **Breath** (tempo, depth), **muscle tone** (tension/ease)  
+- **Posture** (open/closed), **gesture** (expansive/contracted)  
+- **Rhythm** (cycles, entrainment), **micro-movements**
 
 ----
 
-### From Soma Design Perspective
-
-Soma design focuses on the felt experience of the body and invites us to design with, and through, bodily sensation and awareness. Interaction becomes embodied, experiential, and relational.
-
-Note:
-Combining soma design with physical computing enables playful, embodied technologies.
+### Methods (very brief) Overview
+- **First-person** inquiry (guided attention, micro-noticing)  
+- **Somatic practices** to cultivate sensitivity  
+- **Experience prototyping** that invites inward attention
 
 ----
 
-### New Bodily Interface and Experience
+### Capturing Somatic Insight
+- Short **field notes** (immediate descriptors)  
+- **Sensation vocab** (pressure, warmth, flow, weight)  
+- **Bodily sketches** and **body maps**
 
-Instead of pressing plastic buttons, your task is to create wearable or sensor-based devices that translate bodily gestures, postures, or sensations into the functions of the original system. This becomes a new form of soma interface design for Simon Says.
+----
+
+## Design Case (For Inspiration)
+- A breathing wearable that **pulses with exhale**  
+- A chair that **encourages spinal lengthening** via subtle cues  
+- A VR scene that **paces** with your diaphragmatic rhythm
+
+----
+
+## Common Pitfalls
+- Over-instrumentation that **drowns sensation**  
+- Treating the body as **just data**  
+- Ignoring diversity of bodies & experiences
+
+----
+
+## Ethics & Inclusion (Brief)
+- Bodies differ: histories, abilities, sensitivities  
+- Avoid prescriptive “ideal” sensations  
+- Invite **agency** and **consentful** attention
 
 ---
 
-## Example: Pacman Live
+## Body Mapping 
+
+----
+
+### What Is It?
+A technique to **externalize inner bodily experience** by marking sensations on a body outline.
+
+----
+
+### Why Body Mapping?
+- Surfaces **tacit** and otherwise invisible experience  
+- Helps teams **see patterns** and **design leverage points**  
+- Creates a **shared language** for sensation
+
+----
+
+### Materials & Setup
+- Printed body outlines (A3/A4) or large paper  
+- Pens/markers; color coded and/or with legend  
+- Quiet space; 5–15 minutes per mapping
+
+----
+
+#### Body Mapping: Process (1/3)
+1) Choose an **activity** or **interaction** (e.g., open the door)  
+2) Sit/stand as you normally would; **bring attention inward** close your eye if that helps
+3) Slowly perform the activity; **notice** sensations
+
+----
+
+#### Body Mapping: Process (2/3)
+4) On the outline, **mark locations** of:  
+   - Tension/ease, pressure/contact, warmth/coolness  
+   - Breath movement, weight, flow  
+5) Add **arrows, textures, words** to describe (qualities)
 
 ---
 
-In IND 211, we turn Simon Says into a playful, embodied wearable experience.
-
-----
-
-## Project Requirements 
-
-- You will **re-imagine the classic game *Simon Says*** using **soma design** + **physical computing**.  
-- Instead of pressing buttons, you’ll design **wearable or sensor-based controllers** that use **gestures, postures, or sensations**.  
-
-----
-
-The project is about **learning by making** and combining sensors and circuit with reflection on **bodily interaction**. Your work builds step-by-step and move from **initial concept** → **working prototype** → **integrated embodied experience**.
-
-----
-
-## Milestones
-
-- **Week 4 (Formative):** Present group concept + individual role mapping. Feedback prepares you for Week 6.  
-- **Week 6 (Summative):** Refined group concept + working soma controller (20% group + 30% individual).  
-- **Week 10 (Summative):** Final integrated system demo + full documentation and reflection (50% individual).  
-
-----
-
-#### Week 4 — Formative Showcase
-
-Present initial group concept and individual role mapping. Receive feedback to guide Week 6.  
-
-----
-
-**Group Deliverables (per group):**  
-- A2 Body Map — group concept + role distribution.  
-- A2 Storyboard — how the re-designed *Simon Says* plays out.  
-
-**Individual Deliverables (per student):**  
-- A3 Body Map — your first bodily “button” design.  
-- A3 Technical Drawing — sensor, circuit, code logic.  
-
-Note: No electronics demo required yet. Focus on concept clarity + embodied mapping.
-
-----
-
-#### Week 6 — Summative Showcase (20% + 30%)
-
-Present refined group soma concept + demonstrate your own working controller.  
-
-----
-
-**Group Deliverables (per group):**  
-- A2 Body Map — refined from Week 4.  
-- A2 Storyboard — improved play flow & roles.  
-
-----
-
-**Individual Deliverables (per student):**  
-- **Working Soma Controller (Wearable)**  
-- A3 Body Map — refined bodily mapping.  
-- A3 Hero Poster — photo/render + one-line intention.  
-- A3 3D Exploded View or Annotated Protofolio.  
-- A3 Technical Drawing — final schematic & logic.  
-
-----
-
-#### Week 10 — Final Showcase (50%)
-
-Present final integrated Simon Says design via live demo + design package.  
-
-----
-
-**Shared Group Deliverables:**  
-- 3 × A2 Posters: Hero Poster, Storyboard, Group Body Map.  
-- Demo Video: shows technical setup + embodied play.  
-
-----
-
-**Individual Deliverables:**  
-- A3 Hero Poster — your own final controller.  
-- A3 Personal Body Map — final embodied behavior.  
-- A3 3D Exploded View — component breakdown.  
-- A3 Technical Drawing — sensor/circuit/code schematic.  
-- Self-Assessment (2 pages) — reflections.  
-
-----
-
-All details can be found at [Learning Mall](https://core.xjtlu.edu.cn/course/view.php?id=4015)
+#### Body Mapping: Process (3/3)
+6) **Legend** (example):  
+   - ● pressure, ~ warmth, ⇄ flow, ░ tingling, ↑ breath travel  
+7) **Annotate** short labels (2–5 words) for each mark  
+8) **Pair/Group reflection**: What patterns emerge?
 
 ---
 
-## The 10-week journey
-
-From **introduction** → **prototyping** → **embodied design showcase**.  
-
-Note: Set the stage here. Emphasize the progression and how each week builds toward the showcases.
-
-----
-
-#### Week 1 — Getting Started
-
-- **Lecture (Mon):** Introduction to module, somaesthetics, and Arduino basics.  
-- **Workshop (Fri):** Hands-on try-outs with Arduino.  
-
-Note: Welcome students, explain module aims, and lower the barrier with playful Arduino experiments.
-
-----
-
-#### Week 2 — Soma Design & Sensing
-
-- **Lecture (Mon):** Introduction to soma design; fundamentals of sensors & circuits.  
-- **Workshop (Fri):** DFRobot sensor kit try-outs + group preparation & readings (with DFRobot Engineer).  
-
-Note: Show how bodily awareness connects to sensors. Emphasize exploration over perfection.
-
-----
-
-#### Week 3 — First Simon Says
-
-- **Lecture (Mon):** Flip-classroom student presentations.  
-- **Workshop (Fri):** Build a baseline *Simon Says* prototype.  
-
-Note: This is the first turning point—students shift from concepts to building something tangible.
-
-----
-
-#### Week 4 — Formative Showcase
-
-- **No Monday class**  
-- **Friday:** Group formative presentation (see Week 4 Showcase Protocol).  
-
-Note: Stress that this is a **low-stakes checkpoint**—focus on clarity of concept, role mapping, and initial design visuals.
-
-----
-
-#### Week 5 — Prototyping & Support
-
-- **Lecture (Mon):** Design prototyping methods (@Mengjie).  
-- **Tutorial (Fri):** Sensor/breakout Q&A + technical consultancy.  
-
-Note: Emphasize moving from concept into making; this is where ideas become tangible.
-
-----
-
-#### Week 6 — Summative Showcase (20% + 30%)
-
-- Present refined **group concept** (20%).  
-- Demonstrate your **individual soma controller** (30%).  
-- Deliverables: see Week 6 Showcase Protocol.  
-
-Note: This is the **first graded milestone**—focus on working prototypes and clear documentation.
-
-----
-
-#### Week 7 — Field Trip & Integration
-
-- **Field Trip (Mon):** TBC (Visit DFRobot, course partner company).  
-- **Tutorial (Fri):** System integration, debugging, first playtests.  
-- Peer & tutor feedback sessions.  
-
-Note: Encourage students to connect real-world insights with their wearable designs.
-
-----
-
-#### Week 8 — Iteration & Case Studies
-
-- **Lecture (Mon):** Prototyping and design case studies (@DFRobot Manager).  
-- **Tutorial (Fri):** Iteration and refinement with feedback.  
-
-Note: Show how iterative cycles improve both technical function and embodied experience.
-
-----
-
-#### Week 9 — Evaluation & Refinement
-
-- **Lecture (Mon):** Methods for evaluating interaction design (@Mengjie).  
-- **Tutorial (Fri):** Refining final deliverables.  
-
-Note: Prepare students to critically evaluate their prototypes and finalize their group systems.
-
-----
-
-#### Week 10 — Final Showcase (50%)
-- **Monday:** Reherseal and Reflection.
-- **Showcase Day:** 
-    - Live demo of the integrated *Simon Says*.  
-    - Submit full design package.  
-    - Deliverables: see W10 Showcase Protocol.  
-
-Note: Capstone event — technical reliability, embodied interaction, and creativity all come together.
+### From Map → Design Insight or Ideas
+- **Clusters** of marks = potential design focus  
+- Translate qualities into **interaction cues** (e.g., “encourage exhale length”)  
+- Ideate **interventions**: rhythms, materials, feedback, timing
 
 ---
 
-## What you’ll learn  
-Prototype · Reflect · Create
-
-- Build working wearables (electronics + code)  
-- Map the body & storyboard the behavior  
-- Design playful, embodied experiences
-
-Note:
-Connect to showcases (W6 & W10), documentation, and embodiment.
+### Other Example Activities to Map
+- “Unlocking phone while walking”  
+- “First sip of hot tea”  
+- “Waiting screen anxiety”  
+- “Deep breath before presenting”
 
 ---
 
-## Why it matters for Industrial Design  
-Objects → Experiences
+### Mini Exercise (In-Class)
+**5-10 min:** Map sensations for **“Unlocking phone while walking.”**  
+- Mark **pressure**, **breath**, **head/neck posture** (3-5 minutes)
+- Pair up and **compare** maps (3-5 minutes)
 
-- Experience prototyping as core practice  
-- Skills for 
-    - wearables and future product deisgn
-    - prototyping and design HCI research
+----
 
-Note:
-Tie into INDUSTRIAL DESIGN relevance and employability (Buchenau & Suri).
+### 5-10 min: Debrief & Bridge to Prototyping 
+- What **surprised** you? What felt **overlooked**?  
+- Which sensations would you **support/enhance** or **soften**?  
+- After Friday's workshop: connect these insights to **sensors & circuits**
+
+---
+
+### Takeaways
+- **Corporeality vs. Embodiment**: both matter; soma design **foregrounds** embodiment  
+- Soma design treats **lived bodily experience** as primary  
+- **Body mapping** reveals tacit, designable qualities  
+- We design **with** and **for** the body 
+
+----
+
+- In considering future design, it is important **not to regard the body solely as a source of data or as a mechanical object**. 
+
+- Rather, the body should be approached as a site of lived experience, with design oriented toward **enriching, enhancing, and guiding bodily experience**, and carrying this perspective into design practice.
