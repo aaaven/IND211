@@ -113,8 +113,8 @@ A seemingly “small” move - look at the body - object → experience **reorie
 
 **Step 3 – Record (3 min)**  
 - Post to the correct shared board:  
-  - [Corporeality](https://box.xjtlu.edu.cn/f/896d952215ac4b888741/)  
-  - [Embodiment](https://box.xjtlu.edu.cn/f/e64393d2e84e402696fb/)
+  - [Corporeality](https://box.xjtlu.edu.cn/f/6fb6e9e694d2492e866a/)  
+  - [Embodiment](https://box.xjtlu.edu.cn/f/ec1020048f274db39fd2/)
 
 ----
 
@@ -249,8 +249,8 @@ A technique to **externalize inner bodily experience** by marking sensations on 
 
 #### Add your bodymap to the shared slides:
 
-- [Open the door](https://box.xjtlu.edu.cn/f/1781c6fafa76452e8d84/)
-- [Unlocking Phone while Walking](https://box.xjtlu.edu.cn/f/4c08a83b8c6d4e7fa047/)
+- [Open the door](https://box.xjtlu.edu.cn/f/187552a2c18d4081ab2b/)
+- [Unlocking Phone while Walking](https://box.xjtlu.edu.cn/f/b291ea444c5e4c2a94ed/)
 
 ----
 
