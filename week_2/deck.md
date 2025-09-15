@@ -1,4 +1,4 @@
-### Introduction to Soma Design
+### Soma Design and Body Map
 
 ##### By *Dr. [Aven Le ZHOU](https://www.aven.cc)*, 2025
 
@@ -159,7 +159,7 @@ A seemingly “small” move - look at the body - object → experience **reorie
 
 ----
 
-## Common Pitfalls
+## Common Pitfalls / Overly Narrowed
 - Over-instrumentation that **drowns sensation**  
 - Treating the body as **just data**  
 - Ignoring diversity of bodies & experiences
@@ -240,10 +240,17 @@ A technique to **externalize inner bodily experience** by marking sensations on 
 ---
 
 ### Mini Exercise (In-Class)
-**5-10 min:** Map sensations for **“Unlocking phone while walking.”**  
+**5-10 min:** Map sensations for **Open the Door** or **Unlocking Phone while Walking.**  
 - Draw a body shape with two sides if needed
 - Mark **pressure**, **breath**, **head/neck posture** (3-5 minutes)
 - Pair up and **compare** maps (3-5 minutes)
+
+----
+
+#### Add your bodymap to the shared slides:
+
+- [Open the door](https://box.xjtlu.edu.cn/f/1781c6fafa76452e8d84/)
+- [Unlocking Phone while Walking](https://box.xjtlu.edu.cn/f/4c08a83b8c6d4e7fa047/)
 
 ----
 
