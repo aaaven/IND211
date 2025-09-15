@@ -29,7 +29,7 @@
 #### Corporeality: The Object-Body
 - **Material body**: flesh, bone, muscle  
 - Narrowed as **mechanical apparatus** in HCI  
-- Example: fingers pressing keys; posture as mere constraint
+- Example: fingers pressing keys
 
 ----
 
@@ -63,7 +63,7 @@
 **Corporeality (object-body)**  
 - Step count / WeChat Movement ranking  
 - Body treated as **mechanical object**  
-- Emphasis on **withdrawing/tracking/using data**
+- Emphasis on **withdrawing/tracking/using body and bodily data**
 
 ----
 
@@ -75,7 +75,7 @@
 ---
 
 ## Why this matters:
-A seemingly “small” move - look at the body - object → experience **reorients** how we think about and **design with** the body.
+A seemingly “small” move: look at the body as object → as experience, and **reorients** how we think about and **design with** the body.
 
 ---
 
@@ -97,7 +97,7 @@ A seemingly “small” move - look at the body - object → experience **reorie
 
 ----
 
-#### In-Class Activity (20 mins): 
+#### In-Class Discussion (20 mins): 
 
 **Step 1 – Think (2 min)**  
 - Individually, pick a design / technology / product / app etc  you use  
@@ -145,31 +145,28 @@ A seemingly “small” move - look at the body - object → experience **reorie
 
 ----
 
-### Capturing Somatic Insight
+### To Capture Somatic Insight
 - Short **field notes** (immediate descriptors)  
 - **Sensation vocab** (pressure, warmth, flow, weight)  
-- **Bodily sketches** and **body maps**
+- **Bodily sketches** and **body maps**<!-- .element: class="fragment grow highlight-current-red" -->
 
 ----
 
-## Design Case (For Inspiration)
+### Design Case 
+
+#### You will see in the case studies
+
 - A breathing wearable that **pulses with exhale**  
 - A chair that **encourages spinal lengthening** via subtle cues  
 - A VR scene that **paces** with your diaphragmatic rhythm
 
 ----
 
-## Common Pitfalls / Overly Narrowed
+### Common Pitfalls
+#### (Overly Narrowed)
 - Over-instrumentation that **drowns sensation**  
 - Treating the body as **just data**  
 - Ignoring diversity of bodies & experiences
-
-----
-
-## Ethics & Inclusion (Brief)
-- Bodies differ: histories, abilities, sensitivities  
-- Avoid prescriptive “ideal” sensations  
-- Invite **agency** and **consentful** attention
 
 ---
 
@@ -183,7 +180,7 @@ A technique to **externalize inner bodily experience** by marking sensations on 
 ----
 
 ### Why Body Mapping?
-- Surfaces **tacit** and otherwise invisible experience  
+- Surfaces invisible bodily experience  
 - Helps teams **see patterns** and **design leverage points**  
 - Creates a **shared language** for sensation
 
@@ -197,7 +194,7 @@ A technique to **externalize inner bodily experience** by marking sensations on 
 ----
 
 #### Body Mapping: Process (1/3)
-1) Choose an **activity** or **interaction** (e.g., open the door)  
+1) Choose an **activity** or **interaction** (e.g., *open the door*<!-- .element: class="fragment grow highlight-current-red" -->)  
 2) Sit/stand as you normally would; **bring attention inward** close your eye if that helps
 3) Slowly perform the activity; **notice** sensations
 
@@ -231,15 +228,7 @@ A technique to **externalize inner bodily experience** by marking sensations on 
 
 ---
 
-### Other Example Activities to Map
-- “Unlocking phone while walking”  
-- “First sip of hot tea”  
-- “Waiting screen anxiety”  
-- “Deep breath before presenting”
-
----
-
-### Mini Exercise (In-Class)
+### In-Class Exercise (15-20 Mins)
 **5-10 min:** Map sensations for **Open the Door** or **Unlocking Phone while Walking.**  
 - Draw a body shape with two sides if needed
 - Mark **pressure**, **breath**, **head/neck posture** (3-5 minutes)
@@ -260,6 +249,15 @@ A technique to **externalize inner bodily experience** by marking sensations on 
 - After Friday's workshop: connect these insights to **sensors & circuits**
 
 ---
+
+### Other Activities to Map
+
+- “First sip of hot tea”  
+- “Waiting for final mark release (anxiety or not)”  
+- “Deep breath before presentation”
+
+---
+
 
 ### Takeaways
 - **Corporeality vs. Embodiment**: both matter; soma design **foregrounds** embodiment  
