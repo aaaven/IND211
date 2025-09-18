@@ -289,15 +289,30 @@
         </div>
         <div class="card">
           <h3 style="margin-top:0">Get in Touch</h3>
-          <form onsubmit="event.preventDefault(); alert('Thanks! This demo form can be wired to a real endpoint.');" aria-label="Contact form">
-            <label>Name<br><input required type="text" placeholder="Full name" style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)"></label>
-            <br><br>
-            <label>Email<br><input required type="email" placeholder="email@example.com" style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)"></label>
-            <br><br>
-            <label>Message<br><textarea rows="5" placeholder="Interest, background, questions…" style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)"></textarea></label>
-            <br><br>
-            <button class="cta" type="submit">Send</button>
-          </form>
+          <form action="mailto:le.zhou@xjtlu.edu.cn" method="post" enctype="text/plain" aria-label="Contact form">
+  <label>
+    Name<br>
+    <input required type="text" name="name" placeholder="Full name"
+      style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)">
+  </label>
+  <br><br>
+
+  <label>
+    Email<br>
+    <input required type="email" name="email" placeholder="email@example.com"
+      style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)">
+  </label>
+  <br><br>
+
+  <label>
+    Message<br>
+    <textarea rows="5" name="message" placeholder="Interest, background, questions…"
+      style="width:100%; padding:10px; border-radius:10px; border:1px solid var(--line); background:transparent; color:var(--text)"></textarea>
+  </label>
+  <br><br>
+
+  <button class="cta" type="submit">Send</button>
+</form>
         </div>
       </div>
     </section>
