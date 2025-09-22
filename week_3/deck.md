@@ -11,15 +11,6 @@
 
 ---
 
-## Presentation Focus  
-- Core argument of the article  
-- Key methods / findings / theories  
-- Relevance to soma design / physcial computing
-- interaction / technology in general 
-- 1–2 take-away points  
-
----
-
 ## Peer Commentary  
 - Groups reading the **same article**:  
   - Highlight **strengths**  

@@ -43,7 +43,7 @@
 ## Preparation Checklist  
 - ✅ Read your article individually (1–2 hrs)  
 - ✅ Meet your group → prepare a slide deck  
-- ✅ Submit slides [here](https://box.xjtlu.edu.cn/f/d0350db438d947b8ab08/) before class  
+- ✅ Submit slides [here](https://box.xjtlu.edu.cn/d/7f7efde7d9d349928d83/) before class  
 - ✅ Rehearse your **7–8 min presentation**  
 - ✅ In-class: Present your slides and prepare comments on strengths & weaknesses of the other group’s presentation  
 
