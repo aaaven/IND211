@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>IND211</title>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/reveal.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/theme/night.css">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section
+        data-markdown="deck.md"
+        data-separator="^\r?\n---\r?\n$"
+        data-separator-vertical="^\r?\n----\r?\n$"
+        data-separator-notes="^Note:"
+      ></section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js/dist/reveal.js"></script>
+  <script src="https://unpkg.com/reveal.js/plugin/markdown/markdown.js"></script>
+  <script src="https://unpkg.com/reveal.js/plugin/notes/notes.js"></script>
+  <script>
+    Reveal.initialize({
+      plugins: [RevealMarkdown, RevealNotes],
+      slideNumber: true
+    });
+  </script>
+</body>
+</html>
