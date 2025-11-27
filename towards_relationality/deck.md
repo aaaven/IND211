@@ -367,7 +367,7 @@ It focuses on human-to-human relationships and doesn’t yet address interaction
 ## Future Work
 
 - Include nonhuman/interspecific relations  
-- Broader social and political systems
+- Broader social and socio-political systems
 
 
 note:
