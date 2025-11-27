@@ -150,9 +150,9 @@ note:
 
 Before proposing the new model, I went through a fairly broad set of existing interactive art models and taxonomies — the classic ones from Cornock & Edmonds, to Dixon’s levels, to Kwastek’s categories, to the V2_ and Sparacino frameworks. I won’t go into each of them; What’s important is what they collectively center — and what they leave out.
 
-Almost all of them are system-centric. They define interaction in terms of input and output, responsiveness, and system behavior. In other words, they describe how artworks react to what the audience does, but they don’t really talk about how audiences react to each other. And because of that, the sociocultural and interpersonal dimensions of interaction are largely missing. These models don’t address how people co-shape the experience, how they negotiate space, or how the presence of others influences interpretation and behavior.
+Almost all of them are system-centric. They define interaction in terms of input and output, responsiveness, and system behavior. In other words, they describe how artworks react to what the audience does, but they don’t really talk about how audiences react to each other. And because of that, the sociocultural and interpersonal dimensions of interaction are largely missing. 
 
-So what we’re left with is a gap: we have very detailed accounts of human–system dynamics, but we lack frameworks that help us understand audience–audience dynamics. And that’s the gap this research aims to address.
+In other words, here the gap is: we have very detailed accounts of human–system/artwork dynamics, but we lack frameworks that help us understand audience–audience dynamics.
 
 ---
 
@@ -204,9 +204,9 @@ In other words, instead of defining interactive art primarily through system res
 note:
 
 
-To further develop this model, I chose to work with the Ars Electronica archive — specifically the award-winning interactive art works;  it’s large and very accessible — it captures a significant portion of the history of interactive art, covering a wide variety of high-quality practices; all the works are amazingly archived with fully open accesses. And it naturally includes many works where audiences-artwork-audiences interaction happens.
+To further develop this model, I chose to work with the Ars Electronica archive — specifically the award-winning interactive art works; mainly becasue it’s a large and very accessible — it captures a significant portion or even full version of the history of interactive art, covering a wide variety of high-quality practices; all the works are amazingly archived with fully open accesses. And it naturally includes many works where audiences-artwork-audiences interaction happens.
 
-when I examined these works through the Audience–Artwork–Audience model,
+When I examined these works through the Audience–Artwork–Audience model,
 clear relational patterns began to emerge. These categories — SMA, RMA, PII, and DII — were not predefined. They emerged from observing how artworks structure interpersonal dynamics. It helps reveal how different works mediate audience–audience relationships, and it helps refine the overall model.
 
 ---
@@ -222,9 +222,7 @@ clear relational patterns began to emerge. These categories — SMA, RMA, PII, a
 
 note:
 
-These categories help clarify different ways that artworks mediate audience–audience relations. And again, these were not predefined — they emerged organically as I examined how different works structure participation.
-
-In the next set of slides, I’ll walk through examples of each of these categories from Ars Electronica, so you can see how they operate in practice and how they support the Audience–Artwork–Audience model.”
+These categories help clarify different ways that artworks mediate audience–audience relations. In the next set of slides, I’ll walk through examples of each of these categories from Ars Electronica, so you can see how they operate in practice and how they support the Audience–Artwork–Audience model.”
 
 ---
 
@@ -237,7 +235,7 @@ note:
 
 We have — Supported Multi-Audience, where multiple people can interact at the same time, but their participation is not dependent on each other.
 
-This describes works where multiple people can participate at the same time, but their actions don’t depend on each other. They’re co-present, but not necessarily co-dependent. Think of this as a kind of ‘parallel participation.’ Everyone is interacting in the same space, and they may be aware of each other, but the artwork doesn’t force or require coordination.
+This describes works where multiple people can participate at the same time, but their actions don’t depend on each other. They’re co-present, but not necessarily co-dependent. We can think of this as a kind of ‘parallel participation.’ Everyone is interacting in the same space, and they may be aware of each other, but the artwork doesn’t force or require that.
 
 ---
 
@@ -252,7 +250,7 @@ note:
 RMA — Required Multi-Audience, where the artwork actually needs multiple bodies to function properly — the interaction collapses without collective participation. In other words, the artwork is structurally collective.
 It needs coordinated presence — not just optional co-presence like SMA, but actual interdependence.
 
-You can think of those works like Turnstile — the system visualizes collective movement patterns that simply don’t exist at the level of an individual. So RMA moves us from parallel participation into collective activation. People become aware of each other because the artwork requires them to be aware — the system won’t ‘complete’ unless multiple bodies are acting simultaneously.
+We see works like Turnstile — the system visualizes collective movement patterns that simply don’t exist at the level of an individual. So RMA moves the participants from parallel participation into collective activation. People become aware of each other because the artwork requires them to be aware — the artistic experience won’t ‘complete’ unless multiple bodies are acting simultaneously.
 
 ---
 
@@ -263,13 +261,11 @@ You can think of those works like Turnstile — the system visualizes collective
 
 note:
 
-PII — Post-Interpersonal Interaction,
-which is when people interact with traces left by others — so the relation is even though not synchronous but temperal and social.
+PII — Post-Interpersonal Interaction, which is when people interact with traces left by others — so the relation is even through not synchronous but temperally-dependant and social.
 
-In PII works, people don’t interact with each other directly.
-Instead, they interact with previous participants — their voices, movements, emotional states, data fragments - in the archive.
+In other words, participants interact with previous ones — their voices, movements, emotional states, data fragments - in the archive. The relationality happens across time, not in real time. This means the experience is shaped by people they've never met, and their presence will shape the experience of someone who arrives later. 
 
-So the relationality happens across time, not in real time. This means your experience is shaped by people you’ve never met, and your presence will shape the experience of someone who arrives later. This temporal separation is really interesting because it expands relationality beyond co-presence. The artwork becomes a memory system or station — carrying affect, intention, or expression from one person to another.
+This temporal separation is very interesting to personally, several work of mine in my thesis echos this feature, because it expands relationality beyond co-presence. The artwork becomes a memory station — carrying affect, intention, or expression from one person to another.
 
 
 
@@ -282,13 +278,7 @@ So the relationality happens across time, not in real time. This means your expe
 
 note:
 
-And DII — Direct-Interpersonal Interaction, which is when the artwork creates direct, real-time interpersonal engagement between participants.
-
-
-This takes us to the strongest, most explicit form of the audience–audience relationship. Here, the artwork creates real-time interpersonal engagement. Two people are no longer just co-present or leaving traces for each other — they’re directly influencing and responding to one another through the artwork. This often happens through touch, proximity, synchronized movement, or shared embodied actions. The artwork becomes a kind of bridge, an interface but for relating.
-
-
-So instead of just ‘interacting with a system,’ participants are really encountering each other, with the system providing the technogical mediation to foster relational dynamics.
+And DII — Direct-Interpersonal Interaction, which is when the artwork creates direct, real-time interpersonal engagement between participants.This takes us to the strongest, most straight-forward form of the audience–audience relationship. Here, the artwork creates real-time interpersonal engagement. Participants of these interactive artworks are directly influencing and responding to one another through the artwork. This happens through but limited to proximity, synchronized movement,  touch, or other shared embodied actions. The artwork becomes a mediating interface for relating.
 
 ----
 
@@ -299,8 +289,9 @@ So instead of just ‘interacting with a system,’ participants are really enco
 
 note:
 
-This is where relationality becomes really visible at the collective level:
-the crowd becomes an organism, responding to itself through the artwork. So whether it’s a duo or a full crowd, DII brings relationality to the forefront — it makes interpersonal engagement the core of the interactive experience.”
+Instead of just ‘interacting with a system or artwork,’ participants are really encountering each other, with the system providing the technogical mediation to foster relational dynamics. Like these two exammple cases, relationality becomes really visible at the collective level: the crowd becomes dependant entities, depending on each other through the artwork. 
+
+Whether it’s a duo or a full crowd, DII brings relationality to the forefront which makes interpersonal engagement the core of the interactive experience.
 
 ---
 
@@ -316,9 +307,9 @@ note:
 
 In Section 6 of the paper, I analyze all the case studies together using the Audience–Artwork–Audience model, and a few consistent patterns become very clear.
 
-First, across the examples, the artwork increasingly behaves as a relational mediator. The system isn’t just reacting to individuals — it’s structuring how people experience one another. Second, as this relationality strengthens, the technology itself tends to fade into the background. It becomes the underlying infrastructure, while the interpersonal dynamics rise to the surface as the main experience. Third, what becomes central is the collective and interpersonal dimension of interaction. The meaning, the intensity, the affective quality — all of that is shaped by audience–audience relations, not just audience–artwork relations.
+First, across the examples, the artwork increasingly behaves as a relational mediator. The system isn’t just reacting to individuals — it’s structuring how people experience one another. Second, as this relationality strengthens, the technology itself tends to fade into the background. It becomes the underlying infrastructure, while the interpersonal dynamics rise to the surface as the main experience. Third, what becomes central is the collective and interpersonal dimension of interaction. The meaning, the intensity, the affective quality are all shaped by the audience–audience relations, not just audience–artwork relations.
 
-The analysis shows a clear shift away from system responsiveness and toward an understanding of interactive art as staging relational, sociocultural, and collective experiences.
+The analysis shows a clear shift away from system responsiveness or human-artwork interativity, toward an understanding of interactive art as staging sociocultural, collective and relational experiences.
 
 ---
 
@@ -333,11 +324,13 @@ The analysis shows a clear shift away from system responsiveness and toward an u
 
 note:
 
+Here is how I summarize this paradigm shift:
+
 Interactivity, in the traditional sense, focuses on the relationship between a human and an artwork kind of model. This is where most early and even contemporary discussions of interactive art still begin: sensors, inputs, feedback, system responsiveness.
 
 Interpersonality marks the shift when the system begins mediating relationships between audiences. The artwork is no longer the sole counterpart. Instead, the artwork mediates and shapes how people perceive, respond to, and coordinate with one another.
 
-This is the moment when interaction becomes socially structured rather than merely somatic or technical. The artwork moves from being an interactive interface to becoming an interpersonal interface.
+This is the moment when interaction becomes socially structured rather than merely somatic or technical. Again, the artwork moves from being an interactive interface to becoming an interpersonal interface.
 
 
 <!-- SLIDE 18 -->
@@ -349,9 +342,9 @@ This is the moment when interaction becomes socially structured rather than mere
 
 note:
 
-So to conclude — the main message of the paper is that interactive art can be understood as a relational practice rather than simply a technological one. By highlighting sociocultural embodiment, it recognize that participants bring their histories, habits, cultures, and relationships into the artwork. 
+So to conclude — the main message of the paper is that interactive art can be understood as a relational practice rather than simply a technological one. By highlighting sociocultural embodiment, it recognize that participants bring interpersonal relationships into the artwork. 
 
-So interactive artworks are no longer just interfaces that respond to individual inputs. They are relational mediators that stage relational experience. This gives us a richer and more accurate way of understanding what contemporary interactive artworks are actually doing.
+This way, interactive artworks are no longer interfaces responding to individual inputs. They are relational mediators that stage relational experience. This gives us a richer and more dynamic way of understanding what contemporary interactive artworks may head to.
 
 ---
 
@@ -364,7 +357,7 @@ So interactive artworks are no longer just interfaces that respond to individual
 note: 
 
 One clear limitation is that the current model is still anthropocentric.
-It focuses on human-to-human relationships and doesn’t yet address interaction with nonhuman actors — whether animals, environments, or autonomous artificial systems. Another limitation is that this research mostly examines co-located interaction — situations where people share the same physical space.
+It focuses on human-to-human relationships and doesn’t yet address interaction with nonhuman actors — whether plants, animals, environments, ecology, planet, or autonomous artificial systems. Another limitation is that this research mostly examines co-located interaction — situations where people share the same physical space.
 
 
 ---
@@ -374,7 +367,7 @@ It focuses on human-to-human relationships and doesn’t yet address interaction
 ## Future Work
 
 - Include nonhuman/interspecific relations  
-- Broader social and ecological systems
+- Broader social and political systems
 
 
 note:
@@ -382,7 +375,7 @@ note:
 One direction is to extend relationality beyond the human — toward interspecific interaction, nonhuman agencies, and ecological relationality.
 This means exploring how interactive artworks might mediate relations between humans and more-than-human actors; this is also what i am working on after my PhD.
 
-Another direction is to scale up relationality into broader social and ecological systems. and thinking about relationality operating across communities, infrastructures, or planetary conditions.
+Another direction is to scale up relationality into broader social and political systems. and thinking about relationality operating across communities, infrastructures, and / or planetary conditions.
 
 
 ---
@@ -395,6 +388,8 @@ Another direction is to scale up relationality into broader social and ecologica
 
 
 note:
+
+And of course, this is another manuscript i am working on:
 
 Building on interpersonality, Relationality expands the focus beyond direct interpersonal dynamics. Relationality does not replace or overwrite interactivity or interpersonality. Instead, it reframes them within a wider ecology of relationships, where the artwork is just one actor among many or as how we previously defined - mediator.
 
