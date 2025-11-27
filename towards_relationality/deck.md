@@ -402,8 +402,8 @@ Under this perspective, interaction is no longer understood as something happeni
 
 ---
 
-## **Thank You
-### I will Love more Discussions**
+## Thank You
+### **I will Love more Discussions**
 
 #### *Dr. [Aven-Le ZHOU](https://www.aven.cc)*
 #### *aven.le.zhou@gmail.com*
