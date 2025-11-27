@@ -322,7 +322,10 @@ The analysis shows a clear shift away from system responsiveness or human-artwor
 ![Categories](images/i2i.png)
 
 
+
 note:
+
+
 
 Here is how I summarize this paradigm shift:
 
@@ -332,6 +335,8 @@ Interpersonality marks the shift when the system begins mediating relationships 
 
 This is the moment when interaction becomes socially structured rather than merely somatic or technical. Again, the artwork moves from being an interactive interface to becoming an interpersonal interface.
 
+
+---
 
 <!-- SLIDE 18 -->
 ## **(Early) Conclusion**
