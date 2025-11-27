@@ -175,7 +175,7 @@ I propose expanding it into a triadic relationship: Audience → Artwork → Aud
 
 note:
 
-how the system structures the conditions under which people encounter and respond to each other. This is shifting from interactivity to what I call interpersonality — the social, interpersonal space that the artwork actively mediated interpersonal engagements.
+with the new model, the artwork conditions the interperosnal encounter and their espond to each other. This shifting from interactivity to what I call interpersonality — highlights how the artwork foster the social, interpersonal space and actively mediated interpersonal engagements. 
 
 ---
 
