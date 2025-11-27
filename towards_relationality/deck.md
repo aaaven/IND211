@@ -19,6 +19,7 @@ Hi everyone, I’m Aven. thanks everyone for being here. It’s such a pleasure 
 
 - **Assistant Professor, Design School**
     - *Xi'an Jiaotong-Liverpool University*
+    - *University of Liverpool*
 
 
 - **Ph.D. Computational Media and Arts**
