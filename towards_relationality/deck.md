@@ -24,7 +24,7 @@ Hi everyone, I’m Aven. thanks everyone for being here. It’s such a pleasure 
 
 - **Ph.D. Computational Media and Arts**
     - *Hong Kong University of Science and Technology (Guangzhou)*
-    - Practice-based PhD thesis *From Interactivity to Relationality: Becoming-with Relational Embodiment*.
+    - Practice-based PhD thesis *From Interactivity to Relationality: Becoming-with Relational Embodiment* August, 2025.
 
 
 
@@ -32,7 +32,7 @@ note:
 
 
 
-I recently finished my PhD research at Hong Kong University of Science and Technology, like literally very recently, I sucessfully defended my pratice-based PhD thesis entitled "From Interactivity to Relationality: Becoming-with Relatioal Embodiment." This paper also brrows many opinion and discussions from the first and second chapters of this thesis. 
+I recently finished my PhD research at Hong Kong University of Science and Technology, like literally very recently, I sucessfully defended my pratice-based PhD thesis entitled "From Interactivity to Relationality: Becoming-with Relatioal Embodiment" this summer. This paper also brrows many opinion and discussions from the first and second chapters of this thesis. 
 
 I am now with Xi'an Jiaotong-Liverpool University as an assistant professor at our design school. 
 
