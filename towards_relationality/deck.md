@@ -204,7 +204,7 @@ In other words, instead of defining interactive art primarily through system res
 note:
 
 
-To further develop this model, I chose to work with the Ars Electronica archive — specifically the award-winning interactive art works; which naturally includes many works where audiences-artwork-audiences interaction happens.
+To further develop this model, I chose to work with the Ars Electronica archive — specifically the award-winning interactive art works;  it’s large and very accessible — it captures a significant portion of the history of interactive art, covering a wide variety of high-quality practices; all the works are amazingly archived with fully open accesses. And it naturally includes many works where audiences-artwork-audiences interaction happens.
 
 when I examined these works through the Audience–Artwork–Audience model,
 clear relational patterns began to emerge. These categories — SMA, RMA, PII, and DII — were not predefined. They emerged from observing how artworks structure interpersonal dynamics. It helps reveal how different works mediate audience–audience relationships, and it helps refine the overall model.
